@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s7PFZvzCshXInMT6l0lOTcRLnInbD0DON1OqVcGxZIE=",
+  "Source": "TransitStatistics",
+  "BasePath": "_content/TransitStatistics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

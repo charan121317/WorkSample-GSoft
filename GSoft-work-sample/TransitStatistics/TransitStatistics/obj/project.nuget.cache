@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1Xoshrns0XUzmgH6s0Nzunpx0Bu81GBxeYJZUtGIxqTt2igrDn7+4HUsxo/2N0RRqNhRlZNNPaNN9GX++4BFQ==",
+  "success": true,
+  "projectFilePath": "D:\\worksample-ov-charanpreet\\GSoft-work-sample\\TransitStatistics\\TransitStatistics\\TransitStatistics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csingh-p\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

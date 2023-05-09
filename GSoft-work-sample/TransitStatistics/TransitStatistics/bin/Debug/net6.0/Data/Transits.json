@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Truck",
+    "capacity": 20,
+    "cost": 800,
+    "speed": 105
+  },
+  {
+    "type": "Train",
+    "capacity": 30,
+    "cost": 2000,
+    "speed": 80
+  },
+  {
+    "type": "Plane",
+    "capacity": 5,
+    "cost": 5000,
+    "speed": 500
+  },
+  {
+    "type": "Boat",
+    "capacity": 200,
+    "cost": 500,
+    "speed": 10
+  }
+]

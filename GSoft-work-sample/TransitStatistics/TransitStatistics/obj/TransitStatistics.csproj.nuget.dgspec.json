@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\worksample-ov-charanpreet\\GSoft-work-sample\\TransitStatistics\\TransitStatistics\\TransitStatistics.csproj": {}
+  },
+  "projects": {
+    "D:\\worksample-ov-charanpreet\\GSoft-work-sample\\TransitStatistics\\TransitStatistics\\TransitStatistics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\worksample-ov-charanpreet\\GSoft-work-sample\\TransitStatistics\\TransitStatistics\\TransitStatistics.csproj",
+        "projectName": "TransitStatistics",
+        "projectPath": "D:\\worksample-ov-charanpreet\\GSoft-work-sample\\TransitStatistics\\TransitStatistics\\TransitStatistics.csproj",
+        "packagesPath": "C:\\Users\\csingh-p\\.nuget\\packages\\",
+        "outputPath": "D:\\worksample-ov-charanpreet\\GSoft-work-sample\\TransitStatistics\\TransitStatistics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\csingh-p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

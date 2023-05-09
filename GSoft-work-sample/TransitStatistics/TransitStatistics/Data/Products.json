@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Twenty-Sided Die",
+    "factoryLocation": "10,15",
+    "destination": "250,30",
+    "weight": 0.005,
+    "value": 0.2,
+    "type": "NonPerishable"
+  },
+  {
+    "name": "Dictionary",
+    "factoryLocation": "10,15",
+    "destination": "250,30",
+    "weight": 5,
+    "value": 30,
+    "type": "NonPerishable"
+  },
+  {
+    "name": "Laptop",
+    "factoryLocation": "10,15",
+    "destination": "75,550",
+    "weight": 5,
+    "value": 2000,
+    "type": "NonPerishable"
+  },
+  {
+    "name": "Yogurt",
+    "factoryLocation": "10,15",
+    "destination": "118,80",
+    "weight": 1,
+    "value": 4,
+    "type": "Perishable"
+  },
+  {
+    "name": "Chair",
+    "factoryLocation": "10,15",
+    "destination": "350,88",
+    "weight": 2,
+    "value": 20,
+    "type": "NonPerishable"
+  }
+]
