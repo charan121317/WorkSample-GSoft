@@ -1,0 +1,128 @@
+.quantity {
+    position: absolute;
+    width: 450px;
+    height: 560px;
+    left: 45px;
+    top: 140px;
+}
+
+.cost {
+    position: absolute;
+    width: 450px;
+    height: 560px;
+    left: 495px;
+    top: 140px;
+    background: #99DC54;
+}
+
+.profit {
+    position: absolute;
+    width: 450px;
+    height: 560px;
+    left: 945px;
+    top: 140px;
+    background: url("../assets/plane-profit-background.png");
+}
+
+.amount
+{
+    position: absolute;
+    width: 300px;
+    height: 75px;
+    top: 64px;
+    left: 20px;
+
+    font-family: 'SansBold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 75px;
+
+    color: #FFFFFF; 
+    
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.detail{
+    
+    position: absolute;
+    width: fill(410px);
+    height: Hug(50px);
+    top: 139px;
+    left: 20px;
+
+    font-family: 'SansRegular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.line{
+    position: absolute;
+    width: 410px;
+    height: 0px;
+    top: 221px;
+    left: 20px;
+
+    border: 1px solid rgba(255, 255, 255, 0.8);
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 3;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.transit{
+    position: absolute;
+    top: 248px;
+    left: 20px;
+}
+.transit_image{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.transit_text{
+    position: absolute;
+    width: 95px;
+    height: 50px;
+    top: 15px;
+    left: 112px;
+    font-family: 'SansRegular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}

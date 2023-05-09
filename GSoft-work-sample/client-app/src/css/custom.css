@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SansRegular';
+    src: url("../assets/SourceSansPro-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'SansBold';
+    src: url("../assets/SourceSansPro-Bold.ttf");
+}
